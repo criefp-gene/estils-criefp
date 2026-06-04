@@ -1,3 +1,5 @@
-h2 {
-  color: green;
+h1, h2, h3, h4, h5, h6 {
+  color: #C00000;
+  font-weight: bold;
 }
+
